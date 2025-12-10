@@ -8,7 +8,7 @@ function Sidebar() {
     <><div className="d-flex flex-column position-fixed top-0  gap-4 h-100 p-3 border borderr-1 ol">
       {/* Main Sidebar Menu */}
       <div className="d-flex flex-column gap-3 p-3 ">
-        <img src="/images/text.png" alt="instagram" className="txts" />
+        <img src="/insta/images/text.png" alt="instagram" className="txts" />
         <div className="options" onClick={()=>{navigate('/')}}><i className="bi bi-house-door-fill"></i>Home</div>
         <div  className="options"><i className="bi bi-search"></i>Search</div>
         <div  className="options"><i className="bi bi-compass"></i>Explore</div>

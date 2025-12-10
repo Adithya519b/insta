@@ -10,20 +10,20 @@ import AppProvider from './AppProvider.jsx'
 
 const router=createBrowserRouter([
   {
-    path:"/",
+    path:"/insta/",
     element:<App/>,
 
   },
   {
-    path:'/stories/:id/:tot',
+    path:'/insta/stories/:id/:tot',
     element:<ViewStory />
   },
   {
-    path:'/profile',
+    path:'/insta/profile',
     element:<Profile></Profile>
   },
   {
-    path:'/viewProfile/:id',
+    path:'/insta/viewProfile/:id',
     element:<ViewProfile/>
   }
 ])

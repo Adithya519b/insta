@@ -4,7 +4,7 @@
       "id": "1",
       "username": "adithya_varma",
       "fullName": "Adithya B",
-      "profilePic": "/images/profile2.jpg",
+      "profilePic": "/insta/images/profile2.jpg",
       "bio": "Frontend + React Developer",
       "followers": [
         2,
@@ -26,7 +26,7 @@
       "id": "2",
       "username": "rahul_rider",
       "fullName": "Rahul Kumar",
-      "profilePic": "/images/profile1.png",
+      "profilePic": "/insta/images/profile1.png",
       "bio": "Travel | Photography",
       "followers": [],
       "following": [
@@ -41,7 +41,7 @@
       "id": "3",
       "username": "Gopi_royal",
       "fullName": "Gopi B",
-      "profilePic": "/images/profile4.jpg",
+      "profilePic": "/insta/images/profile4.jpg",
       "bio": "Designer & Artist",
       "followers": [
         2,
@@ -58,7 +58,7 @@
       "id": "4",
       "username": "sneha_codes",
       "fullName": "Sneha R",
-      "profilePic": "/images/profile3.jpg",
+      "profilePic": "/insta/images/profile3.jpg",
       "bio": "Full Stack Developer | MERN",
       "followers": [
         1,
@@ -76,7 +76,7 @@
       "id": "5",
       "username": "arjun_fitness",
       "fullName": "Arjun Das",
-      "profilePic": "/images/profile1.png",
+      "profilePic": "/insta/images/profile1.png",
       "bio": "Fitness | Sports | Motivation",
       "followers": [
         2
@@ -93,7 +93,7 @@
       "id": "6",
       "username": "megha_clicks",
       "fullName": "Megha S",
-      "profilePic": "/images/profile5.jpg",
+      "profilePic": "/insta/images/profile5.jpg",
       "bio": "Nature Photographer",
       "followers": [
         3,
@@ -111,7 +111,7 @@
       "id": "7",
       "username": "vijay_tech",
       "fullName": "Vijay Kumar",
-      "profilePic": "/images/profile6.jpg",
+      "profilePic": "/insta/images/profile6.jpg",
       "bio": "Tech | Gadgets | Coding",
       "followers": [
         1
@@ -128,7 +128,7 @@
       "id": "8",
       "username": "priya_art",
       "fullName": "Priya M",
-      "profilePic": "/images/profile7.jpg",
+      "profilePic": "/insta/images/profile7.jpg",
       "bio": "Digital Artist | Illustrator",
       "followers": [
         7,
@@ -145,7 +145,7 @@
       "id": "9",
       "username": "karthik_dev",
       "fullName": "Karthik P",
-      "profilePic": "/images/profile4.jpg",
+      "profilePic": "/insta/images/profile4.jpg",
       "bio": "Backend Developer | Node.js",
       "followers": [
         4
@@ -163,7 +163,7 @@
       "id": "10",
       "username": "sandhya_style",
       "fullName": "Sandhya L",
-      "profilePic": "/images/profile7.jpg",
+      "profilePic": "/insta/images/profile7.jpg",
       "bio": "Fashion | Lifestyle",
       "followers": [
         8,
@@ -180,7 +180,7 @@
       "id": "11",
       "username": "rohit_gamer",
       "fullName": "Rohit Singh",
-      "profilePic": "/images/profile1.png",
+      "profilePic": "/insta/images/profile1.png",
       "bio": "Gamer | Streamer | Tech Geek",
       "followers": [
         10,
@@ -199,7 +199,7 @@
       "id": "12",
       "username": "lavanya_foodie",
       "fullName": "Lavanya D",
-      "profilePic": "/images/profile5.jpg",
+      "profilePic": "/insta/images/profile5.jpg",
       "bio": "Food Blogger | Recipes",
       "followers": [
         6
@@ -216,7 +216,7 @@
       "id": "13",
       "username": "manoj_travels",
       "fullName": "Manoj K",
-      "profilePic": "/images/profile6.jpg",
+      "profilePic": "/insta/images/profile6.jpg",
       "bio": "Exploring the World 🌍✈️",
       "followers": [
         12,
@@ -289,7 +289,7 @@
     {
       "id": "5",
       "userId": 4,
-      "image": "/images/s1.jpg",
+      "image": "/insta/images/s1.jpg",
       "caption": "Started working on a new MERN project! 🚀",
       "likes": [
         1,
@@ -304,7 +304,7 @@
     {
       "id": "6",
       "userId": 5,
-      "image": "/images/s2.jpg",
+      "image": "/insta/images/s2.jpg",
       "caption": "Morning workout done 💪🔥",
       "likes": [
         2,
@@ -316,7 +316,7 @@
     {
       "id": "7",
       "userId": 6,
-      "image": "/images/s3.jpg",
+      "image": "/insta/images/s3.jpg",
       "caption": "Captured this beautiful sunset 🌄📸",
       "likes": [
         1,
@@ -331,7 +331,7 @@
     {
       "id": "8",
       "userId": 7,
-      "image": "/images/profile4.jpg",
+      "image": "/insta/images/profile4.jpg",
       "caption": "Trying out a new gadget review 🔥",
       "likes": [
         3,
@@ -343,7 +343,7 @@
     {
       "id": "9",
       "userId": 8,
-      "image": "/images/profile6.jpg",
+      "image": "/insta/images/profile6.jpg",
       "caption": "New digital illustration completed ✏️✨",
       "likes": [
         2,
@@ -384,24 +384,24 @@
     {
       "id": "1",
       "userId": 1,
-      "image": "/images/s1.jpg",
-      "profilePic": "/images/profile2.jpg",
+      "image": "/insta/images/s1.jpg",
+      "profilePic": "/insta/images/profile2.jpg",
       "username": "adithya_varma",
       "createdAt": "2025-01-12T06:00:00"
     },
     {
       "id": "2",
       "userId": 2,
-      "image": "/images/s2.jpg",
-      "profilePic": "/images/profile1.png",
+      "image": "/insta/images/s2.jpg",
+      "profilePic": "/insta/images/profile1.png",
       "username": "rahul_rider",
       "createdAt": "2025-01-12T06:10:00"
     },
     {
       "id": "3",
       "userId": 3,
-      "image": "/images/s3.jpg",
-      "profilePic": "/images/profile1.png",
+      "image": "/insta/images/s3.jpg",
+      "profilePic": "/insta/images/profile1.png",
       "username": "Gopi_royal",
       "createdAt": "2025-01-12T06:20:00"
     }
@@ -470,7 +470,7 @@
     "id": 1,
     "username": "adithya_varma",
     "fullName": "Adithya B",
-    "profilePic": "/images/profile2.jpg",
+    "profilePic": "/insta/images/profile2.jpg",
     "bio": "Frontend + React Developer and learning backend also.",
     "followers": [
       2,
