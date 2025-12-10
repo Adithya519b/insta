@@ -236,7 +236,7 @@
     {
       "id": "1",
       "userId": 1,
-      "image": "src/assets/pic1.jpg",
+      "image": "/insta/images/pic1.jpg",
       "caption": "Learning React and building cool stuff!",
       "likes": [
         2,
@@ -252,7 +252,7 @@
     {
       "id": "2",
       "userId": 1,
-      "image": "src/assets/pic2.webp",
+      "image": "/insta/images/pic2.webp",
       "caption": "Evening vibes 🌅",
       "likes": [
         3,
@@ -264,7 +264,7 @@
     {
       "id": "3",
       "userId": 2,
-      "image": "src/assets/pic3.jpg",
+      "image": "/insta/images/pic3.jpg",
       "caption": "Trip to Manali ❄️",
       "likes": [
         1
@@ -277,7 +277,7 @@
     {
       "id": "4",
       "userId": 3,
-      "image": "src/assets/pic1.jpg",
+      "image": "/insta/images/pic1.jpg",
       "caption": "New artwork completed 🎨",
       "likes": [
         1,
