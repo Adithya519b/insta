@@ -9,8 +9,8 @@ function Stories() {
     fetch("/insta/db.json")
       .then(res => res.json())
       .then(data => {
-        console.log(data);
-        setStory(data);  // <-- save to state
+        console.log(data.Stories);
+        setStory(data.Stories);  // <-- save to state
       })
       .catch(err => console.error(err));
   }, []);  // <-- important!!
