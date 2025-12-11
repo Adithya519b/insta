@@ -1,0 +1,491 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "adithya_varma",
+      "fullName": "Adithya B",
+      "profilePic": "/insta/images/profile2.jpg",
+      "bio": "Frontend + React Developer",
+      "followers": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "following": [
+        2
+      ],
+      "posts": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "username": "rahul_rider",
+      "fullName": "Rahul Kumar",
+      "profilePic": "/insta/images/profile1.png",
+      "bio": "Travel | Photography",
+      "followers": [],
+      "following": [
+        1,
+        3
+      ],
+      "posts": [
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "username": "Gopi_royal",
+      "fullName": "Gopi B",
+      "profilePic": "/insta/images/profile4.jpg",
+      "bio": "Designer & Artist",
+      "followers": [
+        2,
+        1
+      ],
+      "following": [
+        1
+      ],
+      "posts": [
+        4
+      ]
+    },
+    {
+      "id": "4",
+      "username": "sneha_codes",
+      "fullName": "Sneha R",
+      "profilePic": "/insta/images/profile3.jpg",
+      "bio": "Full Stack Developer | MERN",
+      "followers": [
+        1,
+        2
+      ],
+      "following": [
+        3
+      ],
+      "posts": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "5",
+      "username": "arjun_fitness",
+      "fullName": "Arjun Das",
+      "profilePic": "/insta/images/profile1.png",
+      "bio": "Fitness | Sports | Motivation",
+      "followers": [
+        2
+      ],
+      "following": [
+        1,
+        4
+      ],
+      "posts": [
+        7
+      ]
+    },
+    {
+      "id": "6",
+      "username": "megha_clicks",
+      "fullName": "Megha S",
+      "profilePic": "/insta/images/profile5.jpg",
+      "bio": "Nature Photographer",
+      "followers": [
+        3,
+        4
+      ],
+      "following": [
+        2
+      ],
+      "posts": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "7",
+      "username": "vijay_tech",
+      "fullName": "Vijay Kumar",
+      "profilePic": "/insta/images/profile6.jpg",
+      "bio": "Tech | Gadgets | Coding",
+      "followers": [
+        1
+      ],
+      "following": [
+        6,
+        4
+      ],
+      "posts": [
+        10
+      ]
+    },
+    {
+      "id": "8",
+      "username": "priya_art",
+      "fullName": "Priya M",
+      "profilePic": "/insta/images/profile7.jpg",
+      "bio": "Digital Artist | Illustrator",
+      "followers": [
+        7,
+        6
+      ],
+      "following": [
+        3
+      ],
+      "posts": [
+        11
+      ]
+    },
+    {
+      "id": "9",
+      "username": "karthik_dev",
+      "fullName": "Karthik P",
+      "profilePic": "/insta/images/profile4.jpg",
+      "bio": "Backend Developer | Node.js",
+      "followers": [
+        4
+      ],
+      "following": [
+        1,
+        7
+      ],
+      "posts": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "10",
+      "username": "sandhya_style",
+      "fullName": "Sandhya L",
+      "profilePic": "/insta/images/profile7.jpg",
+      "bio": "Fashion | Lifestyle",
+      "followers": [
+        8,
+        5
+      ],
+      "following": [
+        6
+      ],
+      "posts": [
+        14
+      ]
+    },
+    {
+      "id": "11",
+      "username": "rohit_gamer",
+      "fullName": "Rohit Singh",
+      "profilePic": "/insta/images/profile1.png",
+      "bio": "Gamer | Streamer | Tech Geek",
+      "followers": [
+        10,
+        7
+      ],
+      "following": [
+        5,
+        1
+      ],
+      "posts": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "12",
+      "username": "lavanya_foodie",
+      "fullName": "Lavanya D",
+      "profilePic": "/insta/images/profile5.jpg",
+      "bio": "Food Blogger | Recipes",
+      "followers": [
+        6
+      ],
+      "following": [
+        8,
+        10
+      ],
+      "posts": [
+        17
+      ]
+    },
+    {
+      "id": "13",
+      "username": "manoj_travels",
+      "fullName": "Manoj K",
+      "profilePic": "/insta/images/profile6.jpg",
+      "bio": "Exploring the World 🌍✈️",
+      "followers": [
+        12,
+        4
+      ],
+      "following": [
+        2,
+        5
+      ],
+      "posts": [
+        18,
+        19
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "image": "/insta/images/pic1.jpg",
+      "caption": "Learning React and building cool stuff!",
+      "likes": [
+        2,
+        3,
+        1
+      ],
+      "comments": [
+        1,
+        2
+      ],
+      "createdAt": "2025-01-10T10:30:00"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "image": "/insta/images/pic2.webp",
+      "caption": "Evening vibes 🌅",
+      "likes": [
+        3,
+        1
+      ],
+      "comments": [],
+      "createdAt": "2025-01-12T18:00:00"
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "image": "/insta/images/pic3.jpg",
+      "caption": "Trip to Manali ❄️",
+      "likes": [
+        1
+      ],
+      "comments": [
+        3
+      ],
+      "createdAt": "2025-01-05T08:45:00"
+    },
+    {
+      "id": "4",
+      "userId": 3,
+      "image": "/insta/images/pic1.jpg",
+      "caption": "New artwork completed 🎨",
+      "likes": [
+        1,
+        2
+      ],
+      "comments": [],
+      "createdAt": "2025-01-08T14:20:00"
+    },
+    {
+      "id": "5",
+      "userId": 4,
+      "image": "/insta/images/s1.jpg",
+      "caption": "Started working on a new MERN project! 🚀",
+      "likes": [
+        1,
+        2,
+        3
+      ],
+      "comments": [
+        4
+      ],
+      "createdAt": "2025-01-15T11:10:00"
+    },
+    {
+      "id": "6",
+      "userId": 5,
+      "image": "/insta/images/s2.jpg",
+      "caption": "Morning workout done 💪🔥",
+      "likes": [
+        2,
+        4
+      ],
+      "comments": [],
+      "createdAt": "2025-01-16T06:30:00"
+    },
+    {
+      "id": "7",
+      "userId": 6,
+      "image": "/insta/images/s3.jpg",
+      "caption": "Captured this beautiful sunset 🌄📸",
+      "likes": [
+        1,
+        4,
+        5
+      ],
+      "comments": [
+        1
+      ],
+      "createdAt": "2025-01-14T17:50:00"
+    },
+    {
+      "id": "8",
+      "userId": 7,
+      "image": "/insta/images/profile4.jpg",
+      "caption": "Trying out a new gadget review 🔥",
+      "likes": [
+        3,
+        1
+      ],
+      "comments": [],
+      "createdAt": "2025-01-18T09:40:00"
+    },
+    {
+      "id": "9",
+      "userId": 8,
+      "image": "/insta/images/profile6.jpg",
+      "caption": "New digital illustration completed ✏️✨",
+      "likes": [
+        2,
+        6,
+        7
+      ],
+      "comments": [
+        2,
+        3
+      ],
+      "createdAt": "2025-01-17T12:25:00"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "userId": 2,
+      "text": "Nice bro! 🔥",
+      "createdAt": "2025-01-10T11:00:00"
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "userId": 3,
+      "text": "Keep going! 💪",
+      "createdAt": "2025-01-10T11:05:00"
+    },
+    {
+      "id": "3",
+      "postId": 3,
+      "userId": 1,
+      "text": "Beautiful pic! 😍",
+      "createdAt": "2025-01-05T09:15:00"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "userId": 1,
+      "image": "/insta/images/s1.jpg",
+      "profilePic": "/insta/images/profile2.jpg",
+      "username": "adithya_varma",
+      "createdAt": "2025-01-12T06:00:00"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "image": "/insta/images/s2.jpg",
+      "profilePic": "/insta/images/profile1.png",
+      "username": "rahul_rider",
+      "createdAt": "2025-01-12T06:10:00"
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "image": "/insta/images/s3.jpg",
+      "profilePic": "/insta/images/profile1.png",
+      "username": "Gopi_royal",
+      "createdAt": "2025-01-12T06:20:00"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "between": [
+        1,
+        2
+      ],
+      "chat": [
+        {
+          "from": 1,
+          "message": "Hey Rahul!",
+          "time": "2025-01-12 10:00"
+        },
+        {
+          "from": 2,
+          "message": "Hey bro!",
+          "time": "2025-01-12 10:02"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "between": [
+        1,
+        3
+      ],
+      "chat": [
+        {
+          "from": 3,
+          "message": "New post uploaded!",
+          "time": "2025-01-11 16:12"
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "userId": 1,
+      "type": "like",
+      "fromId": 2,
+      "postId": 1,
+      "time": "2025-01-10T12:20"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "type": "follow",
+      "fromId": 3,
+      "time": "2025-01-11T13:05"
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "type": "comment",
+      "fromId": 1,
+      "postId": 3,
+      "time": "2025-01-05T09:20"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "adithya_varma",
+    "fullName": "Adithya B",
+    "profilePic": "/insta/images/profile2.jpg",
+    "bio": "Frontend + React Developer and learning backend also.",
+    "followers": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "following": [
+      2
+    ],
+    "posts": [
+      1,
+      2
+    ]
+  }
+}
