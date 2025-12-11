@@ -6,7 +6,7 @@ function Stories() {
   const navigate=useNavigate();
 
   useEffect(() => {
-    fetch("/db.json")
+    fetch("/insta/db.json")
       .then(res => res.json())
       .then(data => {
         console.log(data);
